@@ -64,5 +64,5 @@ Testing Frameworks: NUnit is used for backend testing. Feel free to choose other
 
 Cross-Origin Resource Sharing (CORS): CORS is configured to allow requests from 'http://localhost:4200'. Update it based on your deployment scenario.
 
-Feel free to reach out if you have any questions or encounter issues during setup or usage. Enjoy managing your tasks with ToDoApp!
+
 
