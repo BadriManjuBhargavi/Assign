@@ -1,4 +1,4 @@
-ToDoApp
+
 ToDoApp is a simple task management application built with Angular 15, .NET Core, and Microsoft SQL Server. It allows users to create, update, and delete tasks, providing a basic interface to manage their to-do list.
 
 Table of Contents
