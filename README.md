@@ -17,6 +17,7 @@ Visual Studio 2022
 Microsoft SQL Server
 Getting Started
 Clone the repository:
+https://github.com/BadriManjuBhargavi/Assign.git
 
 
 Navigate to the project directory:
